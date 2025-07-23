@@ -3,6 +3,9 @@
 This is a simple and responsive image slider built using **Vanilla JavaScript (ES6)**.  
 It allows users to navigate between images using "Previous" and "Next" buttons, and also provides numbered indicators.
 
+📸 Demo
+🔗 Live Preview – https://lo22op.github.io/Slider/
+
 ## 🚀 Features
 
 - Navigate through images using buttons.
