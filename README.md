@@ -1,5 +1,5 @@
 🖼️ Simple Image Slider
-🔗 
+🔗 https://lo22op.github.io/Slider/
 
 A clean, responsive, and lightweight image slider built with Vanilla JavaScript (ES6).
 Easily navigate through a set of images using intuitive Previous / Next buttons, with dynamic indicators and slide counts.
